@@ -40,4 +40,16 @@ export class HomeComponent implements OnInit {
 
   }
 
+  changeGit() {
+
+    window.location.href = "https://github.com/FranzieYoogan"
+
+  }
+
+  changeLinkedin() {
+
+    window.location.href = "https://www.linkedin.com/in/franzie-yoogan-5968451ab/"
+
+  }
+
 }
